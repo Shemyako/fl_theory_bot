@@ -1,0 +1,8 @@
+test.py
+__pycache__
+app.log
+config.json
+config copy 2.json
+google_module/token.json
+Dockerfile
+.dockerignore
